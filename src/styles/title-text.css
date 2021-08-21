@@ -43,7 +43,7 @@ vertical-align: middle;
 	background: #f3e8e2;
 }
 
-@media (max-width: 1350px) {
+@media screen and (max-width: 1350px) {
 	
 	.page-title-text{
 		rotate: 90deg;
