@@ -46,7 +46,7 @@ vertical-align: middle;
 @media screen and (max-width: 1350px) {
 	
 	.page-title-text{
-		rotate: 90deg;
+		transform: rotate(-90deg)  !important ;  
 		position: relative;
 		top: -0.5px;
 		left: -1em;
